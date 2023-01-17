@@ -1,2 +1,3 @@
 # Japanese-Parser
 This program can scanner and parse simple Japanese sentences. It will determine if the sentence is valid and determine the grammar components of the sentence.
+If you would like you can download the source code to see how the program works. But to test this, first download the executable, optionally you can download the test files to quickly see how it behaves, or create your own txt file with simple sentences in Japanese for it too scan and parse. IMPORTANT, if making your own txt file make sure to have a space between the final word in the sentence and the period ending the sentence. 
